@@ -1,0 +1,2 @@
+C:\Users\Ricardo\Documents\GGJ2019_v2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Ricardo\Documents\GGJ2019_v2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
